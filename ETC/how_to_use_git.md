@@ -9,9 +9,10 @@ git client 도구들만 사용하다보니, git bash 는 맨날 까먹는다.
 1. 로컬에 clone 받고싶은 폴더를 만든다. (영어로)
 2. git bash 에 들어간다. 
 3. 거기서 해당 폴더까지 들어간다.
-    <img src="../data/image/gi1.PNG">
+<img src="https://github.com/JiYoungGoGo/AI_School/blob/main/data/benz/image/git1.PNG">
 
 4. 거기서 `git clone` 하고 git repository 의 ssh 주소를 복사한다. 
     중간에 나오는거에 yes 해주기
 
 그러면 clone 완료!!
+<img src="https://upload.wikimedia.org/wikipedia/ko/thumb/4/4a/%EC%8B%A0%EC%A7%B1%EA%B5%AC.png/230px-%EC%8B%A0%EC%A7%B1%EA%B5%AC.png">
